@@ -7,8 +7,7 @@ sites:
     maxResponseTime: 2000
     icon: https://raw.githubusercontent.com/gdvchat/status/master/assets/favicon.ico
 assignees:
-  - vishnu-narayanan
-  - sojan-official
+  - vkod3s
 status-website:
   cname: status.gdvchat.com
   logoUrl: https://raw.githubusercontent.com/gdvchat/status/master/assets/gdvchat-icon.png
