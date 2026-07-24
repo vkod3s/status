@@ -9,7 +9,7 @@ sites:
 assignees:
   - vkod3s
 status-website:
-  cname: status.gdvchat.com
+  cname: uptime.gdvchat.com
   logoUrl: https://raw.githubusercontent.com/vkod3s/status/master/assets/gdvchat-icon.png
   favicon: https://raw.githubusercontent.com/vkod3s/status/master/assets/favicon.ico
   name: Gdvchat Status
