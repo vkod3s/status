@@ -4,7 +4,7 @@
     "url": "https://dash.gdvchat.com/api",
     "icon": "https://raw.githubusercontent.com/vkod3s/status/master/assets/favicon.ico",
     "slug": "gdvchat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.63%",
@@ -19,7 +19,8 @@
       "2026-07-26": 414,
       "2026-07-25": 233,
       "2026-07-30": 313,
-      "2026-08-02": 229
+      "2026-08-02": 229,
+      "2026-08-05": 0
     }
   }
 ]
