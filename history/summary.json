@@ -4,7 +4,7 @@
     "url": "https://dash.gdvchat.com/api",
     "icon": "https://raw.githubusercontent.com/vkod3s/status/master/assets/favicon.ico",
     "slug": "gdvchat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "91.43%",
     "uptimeWeek": "87.39%",
@@ -12,7 +12,7 @@
     "uptimeYear": "99.58%",
     "time": 681,
     "timeDay": 606,
-    "timeWeek": 666,
+    "timeWeek": 654,
     "timeMonth": 681,
     "timeYear": 681,
     "dailyMinutesDown": {
