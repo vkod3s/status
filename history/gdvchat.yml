@@ -1,7 +1,7 @@
 url: https://dash.gdvchat.com/api
-status: up
+status: degraded
 code: 200
-responseTime: 861
-lastUpdated: 2026-08-22T23:42:20.067Z
+responseTime: 10049
+lastUpdated: 2026-08-23T17:01:46.097Z
 startTime: 2021-08-19T12:12:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
