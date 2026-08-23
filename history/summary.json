@@ -4,17 +4,17 @@
     "url": "https://dash.gdvchat.com/api",
     "icon": "https://raw.githubusercontent.com/vkod3s/status/master/assets/favicon.ico",
     "slug": "gdvchat",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.68%",
-    "uptimeMonth": "91.13%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "90.41%",
+    "uptimeMonth": "91.07%",
     "uptimeYear": "99.26%",
-    "time": 862,
-    "timeDay": 5455,
-    "timeWeek": 1220,
-    "timeMonth": 862,
-    "timeYear": 862,
+    "time": 861,
+    "timeDay": 3921,
+    "timeWeek": 1201,
+    "timeMonth": 861,
+    "timeYear": 861,
     "dailyMinutesDown": {
       "2026-07-26": 414,
       "2026-07-25": 233,
@@ -32,7 +32,8 @@
       "2026-08-19": 0,
       "2026-08-20": 215,
       "2026-08-21": 242,
-      "2026-08-22": 105
+      "2026-08-22": 105,
+      "2026-08-23": 27
     }
   }
 ]
